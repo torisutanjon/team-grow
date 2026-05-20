@@ -15,6 +15,7 @@
     "test:e2e:headed": "playwright test --headed"
   },
   "dependencies": {
+    "@radix-ui/themes": "^3.3.0",
     "next": "16.2.6",
     "react": "19.2.4",
     "react-dom": "19.2.4"
